@@ -1,10 +1,10 @@
 #include <stdio.h>
 
-typedef float Namaste;
+typedef float Hello;
 
 int main(){
 
-    Namaste x = 23;
+    Hello x = 256;
 
     printf("%.2f", x);
     
